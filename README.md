@@ -17,6 +17,7 @@ Repository ini berisi implementasi desain dari **Figma** ke dalam aplikasi **Rea
 
 ## 📂 Struktur Proyek
 
+```bash
 myApp/
 │
 ├── src/
@@ -41,10 +42,12 @@ myApp/
 ├── App.tsx
 └── react-native.config.js
 
+
 ---
 
 
 ## 👤 Dibuat oleh
 
 Nama: Salwa Aprilia Santi
+
 Kelas: TI23F

@@ -42,6 +42,7 @@ myApp/
 ├── App.tsx
 └── react-native.config.js
 
+```
 ---
 
 ## 👤 Dibuat oleh

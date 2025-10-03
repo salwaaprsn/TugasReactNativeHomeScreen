@@ -42,12 +42,9 @@ myApp/
 ├── App.tsx
 └── react-native.config.js
 
-
 ---
-
 
 ## 👤 Dibuat oleh
 
 Nama: Salwa Aprilia Santi
-
 Kelas: TI23F

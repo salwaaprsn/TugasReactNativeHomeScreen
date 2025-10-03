@@ -21,14 +21,21 @@ myApp/
 ├── src/
 │   ├── screens/
 │   │   └── HomeScreen.tsx
+│   │
 │   ├── styles/
 │   │   └── homeStyles.js
+│   │
 │   └── assets/
 │       ├── images/
 │       │   └── background.jpg
-│       └── fonts/
-│           ├── PlusJakartaSans-Regular.ttf
-│           └── PlusJakartaSans-Bold.ttf
+│       │
+│       ├── fonts/
+│       │   ├── PlusJakartaSans-Regular.ttf
+│       │   └── PlusJakartaSans-Bold.ttf
+│       │
+│       └── screenshots/
+│           ├── home.png
+│           └── detail.png
 │
 ├── App.tsx
 └── react-native.config.js

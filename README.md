@@ -47,5 +47,6 @@ myApp/
 
 ## 👤 Dibuat oleh
 
-Nama: Salwa Aprilia Santi
-Kelas: TI23F
+**Nama: Salwa Aprilia Santi**
+
+**Kelas: TI23F**
